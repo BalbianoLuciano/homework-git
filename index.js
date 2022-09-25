@@ -4,6 +4,8 @@ function laCajaDePandora(numero) {
     } else{
         numero.toString(16)
     }
+    
+    
 }
 
 
