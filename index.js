@@ -1,3 +1,4 @@
+
 function laCajaDePandora(numero){
     if(numero%2 === 0){
       let resultado =  numero.toString(2)
