@@ -7,12 +7,3 @@ function laCajaDePandora(numero) {
   }
   
 }
-
-function paulaCelman() {
-  let paulaCelman = {
-    nombre: "Paula Celman",
-    edad: 41,
-    nacionalidad: "Argentina",
-  };
-  return paulaCelman;
-}
